@@ -1,1 +1,3 @@
 # desireVR
+
+DIY-VR assignment
